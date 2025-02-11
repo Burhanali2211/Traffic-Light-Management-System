@@ -1,0 +1,11 @@
+{
+    "model_path": "yolov8n.pt",
+    "camera_index": 0,
+    "vehicle_classes": [2, 3, 5, 7],
+    "pedestrian_class": 0,
+    "high_traffic_threshold": 10,
+    "medium_traffic_threshold": 5,
+    "min_pedestrian_threshold": 2,
+    "confidence_threshold": 0.5,
+    "min_state_duration": 10
+}

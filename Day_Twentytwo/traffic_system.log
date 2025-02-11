@@ -1,0 +1,160 @@
+2025-02-11 11:20:11,852 - INFO - Traffic light changed to green
+2025-02-11 11:20:11,853 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 11:20:11,853 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 11:20:44,956 - INFO - Traffic light changed to yellow
+2025-02-11 11:20:44,957 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 11:20:44,957 - INFO - Traffic: Moderate traffic, Crosswalk: No pedestrians
+2025-02-11 11:20:55,057 - INFO - Traffic light changed to green
+2025-02-11 11:20:55,057 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 11:20:55,058 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 11:24:51,669 - INFO - Traffic light changed to yellow
+2025-02-11 11:24:51,670 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 11:24:51,670 - INFO - Traffic: Moderate traffic, Crosswalk: No pedestrians
+2025-02-11 11:25:01,744 - INFO - Traffic light changed to green
+2025-02-11 11:25:01,744 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 11:25:01,744 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 11:29:57,880 - INFO - Traffic light changed to green
+2025-02-11 11:29:57,881 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 11:29:57,882 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 11:31:52,499 - INFO - Traffic light changed to green
+2025-02-11 11:31:52,499 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 11:31:52,500 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 11:52:38,017 - ERROR - Failed to capture frame from camera
+2025-02-11 11:52:48,029 - INFO - Traffic system stopped.
+2025-02-11 11:57:00,691 - INFO - Traffic system stopped.
+2025-02-11 11:58:13,450 - ERROR - Failed to capture frame from camera
+2025-02-11 11:58:13,762 - INFO - Traffic system stopped.
+2025-02-11 11:59:20,488 - ERROR - Failed to capture frame from camera
+2025-02-11 11:59:20,813 - INFO - Traffic system stopped.
+2025-02-11 11:59:39,028 - ERROR - Failed to capture frame from camera
+2025-02-11 11:59:49,027 - INFO - Traffic system stopped.
+2025-02-11 12:10:27,438 - ERROR - Failed to capture frame
+2025-02-11 12:11:58,903 - INFO - System shutdown complete
+2025-02-11 12:12:20,509 - INFO - Traffic light changed to green
+2025-02-11 12:12:20,510 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:12:20,510 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 12:12:55,862 - INFO - Traffic light changed to red
+2025-02-11 12:12:55,862 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:12:55,862 - INFO - Traffic: High traffic detected, Crosswalk: No pedestrians
+2025-02-11 12:13:10,928 - INFO - Traffic light changed to yellow
+2025-02-11 12:13:10,929 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:13:10,929 - INFO - Traffic: Moderate traffic, Crosswalk: No pedestrians
+2025-02-11 12:13:20,947 - INFO - Traffic light changed to green
+2025-02-11 12:13:20,947 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:13:20,947 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 12:13:40,422 - INFO - Traffic light changed to yellow
+2025-02-11 12:13:40,423 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:13:40,423 - INFO - Traffic: Moderate traffic, Crosswalk: No pedestrians
+2025-02-11 12:13:50,464 - INFO - Traffic light changed to red
+2025-02-11 12:13:50,464 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:13:50,464 - INFO - Traffic: High traffic detected, Crosswalk: No pedestrians
+2025-02-11 12:14:00,496 - INFO - Traffic light changed to green
+2025-02-11 12:14:00,496 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:14:00,497 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 12:14:44,189 - INFO - System shutdown complete
+2025-02-11 12:15:03,390 - INFO - Traffic light changed to green
+2025-02-11 12:15:03,390 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:15:03,391 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 12:15:13,440 - INFO - Traffic light changed to yellow
+2025-02-11 12:15:13,440 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:15:13,441 - INFO - Traffic: Moderate traffic, Crosswalk: No pedestrians
+2025-02-11 12:15:23,470 - INFO - Traffic light changed to green
+2025-02-11 12:15:23,472 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:15:23,472 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 12:15:34,778 - INFO - Traffic light changed to yellow
+2025-02-11 12:15:34,779 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:15:34,779 - INFO - Traffic: Moderate traffic, Crosswalk: No pedestrians
+2025-02-11 12:15:45,435 - INFO - Traffic light changed to green
+2025-02-11 12:15:45,435 - INFO - Crosswalk signal changed to don't_walk
+2025-02-11 12:15:45,436 - INFO - Traffic: Low traffic, Crosswalk: No pedestrians
+2025-02-11 12:17:40,115 - INFO - System shutdown complete
+2025-02-11 12:18:08,469 - INFO - Traffic light changed to green
+2025-02-11 12:18:08,469 - INFO - Traffic: Low traffic
+2025-02-11 12:18:18,540 - INFO - Traffic light changed to yellow
+2025-02-11 12:18:18,541 - INFO - Traffic: Moderate traffic
+2025-02-11 12:18:28,549 - INFO - Traffic light changed to green
+2025-02-11 12:18:28,549 - INFO - Traffic: Low traffic
+2025-02-11 12:18:54,075 - INFO - Traffic light changed to yellow
+2025-02-11 12:18:54,076 - INFO - Traffic: Moderate traffic
+2025-02-11 12:19:04,174 - INFO - Traffic light changed to red
+2025-02-11 12:19:04,174 - INFO - Traffic: High traffic detected
+2025-02-11 12:19:14,287 - INFO - Traffic light changed to green
+2025-02-11 12:19:14,287 - INFO - Traffic: Low traffic
+2025-02-11 12:19:27,067 - INFO - System shutdown complete
+2025-02-11 12:22:55,749 - INFO - Traffic light changed to green
+2025-02-11 12:23:02,849 - INFO - Traffic light changed to yellow
+2025-02-11 12:23:05,925 - INFO - Traffic light changed to red
+2025-02-11 12:23:15,983 - INFO - Traffic light changed to green
+2025-02-11 12:23:22,986 - INFO - Traffic light changed to yellow
+2025-02-11 12:23:26,072 - INFO - Traffic light changed to red
+2025-02-11 12:23:36,147 - INFO - Traffic light changed to green
+2025-02-11 12:23:43,260 - INFO - Traffic light changed to yellow
+2025-02-11 12:23:46,348 - INFO - Traffic light changed to red
+2025-02-11 12:23:56,420 - INFO - Traffic light changed to green
+2025-02-11 12:24:03,530 - INFO - Traffic light changed to yellow
+2025-02-11 12:24:06,614 - INFO - Traffic light changed to red
+2025-02-11 12:24:16,712 - INFO - Traffic light changed to green
+2025-02-11 12:24:23,750 - INFO - Traffic light changed to yellow
+2025-02-11 12:24:26,833 - INFO - Traffic light changed to red
+2025-02-11 12:24:36,911 - INFO - Traffic light changed to green
+2025-02-11 12:24:43,945 - INFO - Traffic light changed to yellow
+2025-02-11 12:24:47,028 - INFO - Traffic light changed to red
+2025-02-11 12:24:57,105 - INFO - Traffic light changed to green
+2025-02-11 12:25:04,110 - INFO - Traffic light changed to yellow
+2025-02-11 12:25:07,197 - INFO - Traffic light changed to red
+2025-02-11 12:25:17,284 - INFO - Traffic light changed to green
+2025-02-11 12:25:24,335 - INFO - Traffic light changed to yellow
+2025-02-11 12:25:27,356 - INFO - Traffic light changed to red
+2025-02-11 12:25:37,381 - INFO - Traffic light changed to green
+2025-02-11 12:25:44,401 - INFO - Traffic light changed to yellow
+2025-02-11 12:25:47,416 - INFO - Traffic light changed to red
+2025-02-11 12:25:57,517 - INFO - Traffic light changed to green
+2025-02-11 12:26:04,586 - INFO - Traffic light changed to yellow
+2025-02-11 12:26:07,623 - INFO - Traffic light changed to red
+2025-02-11 12:26:17,624 - INFO - Traffic light changed to green
+2025-02-11 12:26:22,959 - INFO - System shutdown complete
+2025-02-11 12:26:51,545 - INFO - Traffic light changed to green
+2025-02-11 12:27:08,579 - INFO - Traffic light changed to yellow
+2025-02-11 12:27:21,898 - INFO - Traffic light changed to green
+2025-02-11 12:27:45,965 - INFO - Traffic light changed to yellow
+2025-02-11 12:27:56,042 - INFO - Traffic light changed to red
+2025-02-11 12:28:07,415 - INFO - Traffic light changed to yellow
+2025-02-11 12:28:17,428 - INFO - Traffic light changed to green
+2025-02-11 12:29:37,757 - INFO - System shutdown complete
+2025-02-11 12:31:48,373 - INFO - Traffic light changed to green
+2025-02-11 12:31:51,119 - INFO - Traffic is clear, light is green
+2025-02-11 12:34:07,240 - INFO - Traffic light changed to yellow
+2025-02-11 12:34:09,934 - INFO - Moderate traffic, slowing down
+2025-02-11 12:34:20,042 - INFO - Traffic light changed to red
+2025-02-11 12:34:22,626 - INFO - Heavy traffic, stopping cars
+2025-02-11 12:34:51,480 - INFO - Traffic light changed to green
+2025-02-11 12:34:54,167 - INFO - Traffic is clear, light is green
+2025-02-11 12:35:07,577 - INFO - System shutdown complete
+2025-02-11 12:41:13,501 - INFO - Traffic light changed to green
+2025-02-11 12:41:16,237 - INFO - Traffic is clear, light is green
+2025-02-11 12:42:30,855 - INFO - Traffic light changed to yellow
+2025-02-11 12:42:33,557 - INFO - Moderate traffic, slowing down
+2025-02-11 12:42:43,568 - INFO - Traffic light changed to red
+2025-02-11 12:42:46,113 - INFO - Heavy traffic, stopping cars
+2025-02-11 12:42:56,136 - INFO - Traffic light changed to green
+2025-02-11 12:42:58,795 - INFO - Traffic is clear, light is green
+2025-02-11 13:03:31,707 - INFO - System shutdown complete
+2025-02-11 14:14:01,029 - INFO - Traffic light changed to green
+2025-02-11 14:14:01,029 - INFO - Traffic is clear, light is green
+2025-02-11 14:19:33,704 - INFO - Traffic light changed to red
+2025-02-11 14:19:33,704 - INFO - Heavy traffic, stopping cars
+2025-02-11 14:19:43,764 - INFO - Traffic light changed to green
+2025-02-11 14:19:43,766 - INFO - Traffic is clear, light is green
+2025-02-11 14:54:44,367 - ERROR - Failed to capture frame
+2025-02-11 22:32:38,636 - INFO - Traffic light changed to green
+2025-02-11 22:32:38,636 - INFO - Traffic is clear, light is green
+2025-02-11 22:43:05,137 - INFO - Traffic light changed to yellow
+2025-02-11 22:43:05,139 - INFO - Moderate traffic, slowing down
+2025-02-11 22:43:15,156 - INFO - Traffic light changed to red
+2025-02-11 22:43:15,157 - INFO - Heavy traffic, stopping cars
+2025-02-11 22:43:22,159 - INFO - System shutdown complete
+2025-02-11 22:45:26,462 - INFO - Traffic light changed to green
+2025-02-11 22:45:26,464 - INFO - Traffic is clear, light is green
+2025-02-11 22:45:36,469 - INFO - Traffic light changed to red
+2025-02-11 22:45:36,471 - INFO - Heavy traffic, stopping cars
+2025-02-11 22:45:43,254 - INFO - System shutdown complete
